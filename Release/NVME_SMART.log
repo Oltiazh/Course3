@@ -1,0 +1,12 @@
+﻿  NVME_SMART.cpp
+D:\Projects Visual Studio\NVME_SMART\NVME_SMART.cpp(170,39): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Projects Visual Studio\NVME_SMART\NVME_SMART.cpp(404,62): warning C4244: =: преобразование "double" в "ULONG", возможна потеря данных
+D:\Projects Visual Studio\NVME_SMART\NVME_SMART.cpp(405,63): warning C4244: =: преобразование "double" в "ULONG", возможна потеря данных
+D:\Projects Visual Studio\NVME_SMART\NVME_SMART.cpp(406,63): warning C4244: =: преобразование "double" в "ULONG", возможна потеря данных
+D:\Projects Visual Studio\NVME_SMART\NVME_SMART.cpp(407,63): warning C4244: =: преобразование "double" в "ULONG", возможна потеря данных
+  Создание кода
+  47 of 313 functions (15.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  NVME_SMART.vcxproj -> D:\Projects Visual Studio\NVME_SMART\Release\NVME_SMART.exe
